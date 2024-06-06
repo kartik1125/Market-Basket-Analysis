@@ -1,5 +1,5 @@
 # Market-Basket-Analysis
-# This Repository contains Apriori algorithm experimented on UK-based retailer during the years 2010-2011. 
+# This Repository contains Apriori algorithm experimented on UK-based retail Dataset during the years 2010-2011. 
 # Dataset - The dataset has been taken from Kaggle name of Loan Prediction Dataset
 # Dataset -(https://www.kaggle.com/code/angersh/ecommerce-uk-retailer-basket-analysis)
 # Attributes -
